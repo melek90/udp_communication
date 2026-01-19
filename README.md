@@ -1,4 +1,4 @@
-#udp_communication
+# udp_communication
 A simple UDP client-server chat application built with Python sockets. This project demonstrates real-time bidirectional communication between two machines using the UDP protocol.
 so i used only
 Standard library only (no external dependencies) (sys and socket)
